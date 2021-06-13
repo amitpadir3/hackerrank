@@ -1,4 +1,4 @@
-package com.hackerRank.java;
+package com.hackerRank.java.comparator;
 
 import java.util.ArrayList;
 import java.util.Collections;
